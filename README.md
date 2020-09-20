@@ -1,7 +1,8 @@
 # 《基本有用的计量经济学》
 
+![](cover.jpg)
 
- *关注公众号：causal-inference，了解更多信息
+ 关注**公众号**：causal-inference，了解更多信息
 
 本仓库提供了MUSE中所使用的所有数据
 
