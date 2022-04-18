@@ -25,7 +25,7 @@ http://eml.berkeley.edu/~jmccrary/DCdensity/ 下载DCdensity.ado，并保存在\
 
 ### R代码
 
-李建成老师将本书程序转化为R代码，有需要者可以参见[这里](https://mp.weixin.qq.com/s?__biz=MzI4NDcwMTU5MA==&mid=2247483846&idx=1&sn=b47acecf137e75aa6c262f75c1994be3&chksm=ebf6273fdc81ae29784914ad2e7d4eecf745599e9dabe1d1cf0ef1be761e1e270b09f6e030eb&mpshare=1&scene=1&srcid=0802fil7UjOOIAse9cWfjyz0&sharer_sharetime=1574208259547&sharer_shareid=ff2a7bc1fe1071d680581c5ea74f123f&key=ec7666f66bb2b36d3e3de8cfd67cd659e4aeff15ac913052e9c8021835c897d23c04be5a550f18923c5e151242e3ec2ae0b9021b36ab6f167d3a7e31252f797f5d8a9808e5341458907bb3bfcf27ef4b&ascene=1&uin=MTk2NTAyNjIxMw%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=16Q3tRt5%2FxKNnIu5%2BSebLJx7G7LKQq%2FgP3kHYW%2FA4w3AA7EWN6couXb5rKSwC7Jt)。
+李建成老师将本书程序转化为R代码，有需要者可以参见[这里](https://github.com/SocratesAcademy/causalinference/blob/master/Rcode_%E5%9F%BA%E6%9C%AC%E6%9C%89%E7%94%A8%E7%9A%84%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6.R)。
 
 ## 勘误
 - errata.docx是勘误表，是笔者和热心读者目前发现的印刷错误，为读者带来的不便深表歉意。如果读者发现其他错误可以发给：zhaoxiliang@gmail.com。多谢！
